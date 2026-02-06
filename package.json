@@ -1,7 +1,13 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "keshevplus-monorepo",
+  "description": "KeshevPlus monorepo for the Vite + React + shadcn UI application.",
   "private": true,
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshevplus/keshevplus-monorepo.git"
+  },
+  "homepage": "https://github.com/keshevplus/keshevplus-monorepo#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",
